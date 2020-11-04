@@ -1,0 +1,605 @@
+﻿index,substation,voltage,name,lat,lon,zone,info,demand
+n3303,s3754,220,Altheim,48.637446,12.172852,DE,Substation,True
+n3304,s3755,380,Marienberg,47.941187,11.979218,DE,Substation,True
+n3305,s3756,380,Irsching,48.79239,11.501312,DE,Substation,True
+n3306,s3757,380,Oberbachern,48.348035,11.260986,DE,Substation,True
+n3307,s3758,220,Oberbrunn,48.087,11.184,DE,Substation,True
+n3308,s3758,380,Oberbrunn,48.067,11.184,DE,Substation,True
+n3309,s3759,380,Menzing,48.277709,11.355743,DE,Substation,True
+n3310,s3760,220,Ingolstadt,48.862,11.363,DE,Substation,True
+n3311,s3760,380,Ingolstadt,48.842,11.363,DE,Substation,True
+n3312,s3761,380,Zolling,48.545705,11.778717,DE,Substation,True
+n3313,s3762,380,Neufinsing,48.322474,11.681213,DE,Substation,True
+n3314,s3763,380,FÃ¶hring,48.266741,11.589203,DE,Substation,True
+n3315,s3764,380,Ottenhofen,48.314255,11.825409,DE,Substation,True
+n3316,s3765,220,Sittling,48.868328,11.841888,DE,Substation,True
+n3317,s3766,380,Regensburg,48.992834,12.034149,DE,Substation,True
+n3318,s3767,220,Pirach,48.20088,12.628784,DE,Substation,True
+n3319,s3768,380,Isar,48.659222,12.292328,DE,Substation,True
+n3320,s3769,220,Simbach,48.332517,12.929535,DE,Substation,True
+n3321,s3770,220,Pleinting,48.686,13.035,DE,Substation,True
+n3322,s3770,380,Pleinting,48.666,13.035,DE,Substation,True
+n3323,s3771,220,KrÃ¼n,47.528329,11.122284,DE,Substation,True
+n3324,s3772,380,Plattling,48.801436,12.741394,DE,Substation,True
+n3453,s3965,380,Wehr,47.707913,7.871704,DE,Hydro pure pump storage,False
+n3454,s3966,220,Eichstetten,48.114,7.714,DE,Substation,True
+n3455,s3966,380,Eichstetten,48.094,7.714,DE,Substation,True
+n3456,s3967,220,KÃ¼hmoos,47.609,7.934,DE,Substation,True
+n3457,s3967,380,KÃ¼hmoos,47.589,7.934,DE,Substation,True
+n3458,s3968,220,Gurtweil,47.716,8.149,DE,Substation,True
+n3459,s3968,380,Gurtweil,47.696,8.149,DE,Substation,True
+n3460,s3969,220,Tiengen,47.66,8.205,DE,Substation,True
+n3461,s3969,380,Tiengen,47.64,8.205,DE,Substation,True
+n3462,s3970,380,Villingen,48.074409,8.386688,DE,Substation,True
+n3463,s3971,220,Weier,48.499318,7.878571,DE,Substation,True
+n3464,s3972,220,Kuppenheim,48.762526,8.245239,DE,Substation,True
+n3465,s3973,380,Daxlanden,48.992834,8.423767,DE,Substation,True
+n3466,s3974,220,Karlsruhe West,49.019,8.326,DE,Substation,True
+n3467,s3974,380,Karlsruhe West,48.999,8.326,DE,Substation,True
+n3468,s3975,220,Stockach,47.810388,8.962097,DE,Substation,True
+n3469,s3976,220,Beuren,47.789171,8.791809,DE,Substation,True
+n3470,s3977,380,Trossingen,48.079914,8.528137,DE,Substation,True
+n3471,s3978,220,Birkenfeld,48.781533,8.567963,DE,Substation,True
+n3472,s3979,380,Oberjettingen,48.516604,8.749237,DE,Substation,True
+n3473,s3980,380,Engstlatt,48.244797,8.861847,DE,Substation,True
+n3474,s3981,220,Pulverdingen,48.816,8.925,DE,Substation,True
+n3475,s3981,380,Pulverdingen,48.796,8.925,DE,Substation,True
+n3476,s3982,380,Delmensingen,48.242967,9.84375,DE,Substation,True
+n3477,s3983,380,Herbertingen,48.037692,9.396057,DE,Substation,True
+n3478,s3984,380,GrÃ¼nkraut,47.708837,9.606171,DE,Substation,True
+n3479,s3985,380,Obermooweiler,47.622827,9.732513,DE,Substation,True
+n3480,s3986,380,Wendlingen,48.592051,9.280701,DE,Substation,True
+n3481,s3987,380,Metzingen,48.484756,9.244995,DE,Substation,True
+n3482,s3988,220,Hoheneck,48.831,9.134,DE,Substation,True
+n3483,s3988,380,Hoheneck,48.811,9.134,DE,Substation,True
+n3484,s3989,380,Endersbach,48.736267,9.328766,DE,Substation,True
+n3485,s3990,380,Laichingen,48.397297,9.600677,DE,Substation,True
+n3486,s3991,380,BÃ¼nzwangen,48.621109,9.574585,DE,Substation,True
+n3487,s3992,220,Neckarwestheim,49.038,9.352,DE,Substation,True
+n3488,s3992,380,Neckarwestheim,49.018,9.352,DE,Substation,True
+n3489,s3993,220,Memmingen,47.952225,10.192566,DE,Substation,True
+n3490,s3994,380,Leupolz,47.742094,10.349121,DE,Substation,True
+n3491,s3995,220,Rauhenzell ,47.632082,10.26535,DE,Substation,True
+n3492,s3996,380,Gundremmingen,48.563885,10.421906,DE,Substation,True
+n3493,s3997,380,Niederstotzingen,48.493857,10.170593,DE,Substation,True
+n3494,s3998,220,VÃ¶hringen,48.209,10.063,DE,Substation,True
+n3495,s3998,380,VÃ¶hringen,48.189,10.063,DE,Substation,True
+n3496,s3999,380,GoldshÃ¶fe,48.79239,10.095062,DE,Substation,True
+n3497,s4000,380,Rotensohl,48.622016,10.204926,DE,Substation,True
+n3498,s4001,380,Lechhausen,48.424644,10.859985,DE,Substation,True
+n3499,s4002,220,Oberottmarshausen,48.325,10.783,DE,Substation,True
+n3500,s4002,380,Oberottmarshausen,48.305,10.783,DE,Substation,True
+n3501,s4003,380,Meitingen,48.62837,10.829773,DE,Substation,True
+n3502,s4004,380,Gersthofen,48.499318,10.8284,DE,Substation,True
+n3503,s4005,380,Altbach,48.670106,9.299927,DE,Substation,True
+n3504,s4007,220,BÃ¼hl,48.643798,8.022766,DE,Substation,True
+n3505,s4008,220,Oberwald,48.946857,8.522644,DE,Substation,True
+n3507,s4010,380,MÃ¼hlhausen,48.772483,9.229889,DE,Substation,True
+n3848,s4382,220,SchwÃ¶rstadt,47.593841,7.874779,DE,Substation,True
+n7090,s7770,380,,51.26793,6.490173,DE,joint,False
+n4496,s5010,380,Lippendorf,51.316881,12.484589,DE,Brown coal/Lignite,False
+n4497,s5011,380,Schkopau,51.394922,11.943512,DE,Brown coal/Lignite,False
+n4498,s5012,380,Reuter West,52.465214,12.935028,DE,Hard coal,False
+n4499,s5015,380,Redwitz,50.21558,11.179962,DE,Substation,True
+n4500,s5016,220,Ludersheim,49.454735,11.306305,DE,Substation,True
+n4501,s5017,220,Hohenwarte,50.658167,11.532898,DE,Substation,True
+n4502,s5018,380,Klostermansfeld,51.605225,11.455994,DE,Substation,True
+n4503,s5019,380,FÃ¶rderstedt,52.011091,11.722412,DE,Substation,True
+n4504,s5020,380,Helmstedt,52.171405,11.107178,DE,Substation,True
+n4505,s5021,220,Wolmirstedt,52.238,11.746,DE,Substation,True
+n4506,s5021,380,Wolmirstedt,52.218,11.746,DE,Substation,True
+n4507,s5022,380,SchmÃ¶lln,51.18709,14.184723,DE,Substation,True
+n4508,s5023,380,ZwÃ¶nitz,50.613746,12.786713,DE,Substation,True
+n4509,s5024,380,Mechlenreuth,50.271788,11.78009,DE,Substation,True
+n4510,s5025,380,Etzenricht,49.688066,12.049255,DE,Substation,True
+n4511,s5026,220,Schwandorf,49.36,12.031,DE,Substation,True
+n4512,s5026,380,Schwandorf,49.34,12.031,DE,Substation,True
+n4513,s5027,220,Weida,50.777,12.079,DE,Substation,True
+n4514,s5027,380,Weida,50.757,12.079,DE,Substation,True
+n4515,s5028,220,Remptendorf,50.591,11.722,DE,Substation,True
+n4516,s5028,380,Remptendorf,50.571,11.722,DE,Substation,True
+n4517,s5029,220,Vieselbach,50.992,11.455,DE,Substation,True
+n4518,s5029,380,Vieselbach,50.972,11.455,DE,Substation,True
+n4519,s5030,380,GroÃŸschwabhausen,50.877044,11.733398,DE,Substation,True
+n4520,s5031,220,RÃ¶hrsdorf,50.86,12.802,DE,Substation,True
+n4521,s5031,380,RÃ¶hrsdorf,50.84,12.802,DE,Substation,True
+n4522,s5032,220,HerlasgrÃ¼n,50.593699,12.33902,DE,Substation,True
+n4523,s5033,220,Crossen,50.793783,12.532654,DE,Substation,True
+n4524,s5034,220,Eula,51.126,12.695,DE,Substation,True
+n4525,s5034,380,Eula,51.106,12.695,DE,Substation,True
+n4526,s5035,220,Niederwiesa,50.84844,13.040771,DE,Substation,True
+n4527,s5036,380,Dresden-SÃ¼d,51.013755,13.815308,DE,Substation,True
+n4528,s5037,380,Teufelsbruch,52.568004,12.740021,DE,Substation,True
+n4529,s5038,380,Marke,51.75849,12.181091,DE,Substation,True
+n4530,s5039,220,Taucha,51.308296,12.685089,DE,Substation,True
+n4531,s5040,220,Magdeburg,52.097226,11.862488,DE,Substation,True
+n4532,s5041,220,Brandenburg West,52.331982,12.139893,DE,Substation,True
+n4533,s5042,220,Wustermark,52.575,12.377,DE,Substation,True
+n4534,s5042,380,Wustermark,52.555,12.377,DE,Substation,True
+n4535,s5043,220,Thyrow,52.107,13.362,DE,Substation,True
+n4536,s5043,380,Thyrow,52.087,13.362,DE,Substation,True
+n4537,s5044,380,Ragow,51.894292,13.914185,DE,Substation,True
+n4538,s5045,220,Streumen,51.31,13.447,DE,Substation,True
+n4539,s5045,380,Streumen,51.29,13.447,DE,Substation,True
+n4540,s5046,380,Preilack,51.794178,14.397583,DE,Substation,True
+n4541,s5047,220,Wuhlheide,52.266,13.83,DE,Substation,True
+n4542,s5047,380,Wuhlheide,52.246,13.83,DE,Substation,True
+n4543,s5048,380,Charlottenburg,52.406608,13.036652,DE,Substation,True
+n4544,s5049,380,Friedrichshain,52.437595,13.443146,DE,Substation,True
+n4545,s5050,220,Neuenhagen,52.476,13.894,DE,Substation,True
+n4546,s5050,380,Neuenhagen,52.456,13.894,DE,Substation,True
+n4547,s5051,380,Graustein,51.532669,14.441528,DE,Substation,True
+n4548,s5052,380,BÃ¤rwalde,51.363207,14.47998,DE,Substation,True
+n4549,s5053,380,Hagenwerder,51.146617,14.80957,DE,Substation,True
+n4550,s5054,380,EisenhÃ¼ttenstadt,52.125058,14.61731,DE,Substation,True
+n4551,s5056,380,Reuter,52.409121,12.816925,DE,Substation,True
+n4552,s5057,380,Marzahn,52.425873,13.643646,DE,Substation,True
+n4553,s5059,380,Pulgar,51.268789,12.384338,DE,Substation,True
+n4554,s5060,380,Altenfeld,50.490716,11.147003,DE,Substation,True
+n4555,s5061,380,JÃ¤nschwalde,51.730431,14.595337,DE,Brown coal/Lignite,False
+n4556,s5062,380,Schwarze Pumpe,51.501049,14.206696,DE,Brown coal/Lignite,False
+n4557,s5063,380,Boxberg,51.292841,14.672241,DE,Brown coal/Lignite,False
+n4558,s5065,380,Windpark SchÃ¶newalde,51.733833,13.167114,DE,Substation,True
+n4559,s5066,380,Markersbach,50.605903,12.97348,DE,Substation,True
+n4560,s5067,220,Niederwartha,51.094036,13.581848,DE,Substation,True
+n4561,s5068,380,LauchstÃ¤dt,51.415482,11.807556,DE,Substation,True
+n4562,s5069,380,Freiberg/Nord,51.024121,13.130035,DE,Substation,True
+n4575,s5082,220,Stahlwerk ThÃ¼ringen,50.668613,11.35025,DE,Substation,True
+n4576,s5084,380,Mitte,52.302601,13.168488,DE,Substation,True
+n4577,s5095,220,SandtorstraÃŸe,52.185721,11.90506,DE,Substation,True
+n4579,s5098,380,Heinersdorf,52.259752,14.414062,DE,Substation,True
+n4580,s5099,220,Diefflen,49.473,6.74,DE,Substation,True
+n4581,s5099,380,Diefflen,49.453,6.74,DE,Substation,True
+n4582,s5100,380,Jessen/Nord,51.843414,12.96524,DE,Substation,True
+n4583,s5101,220,Weiher,49.340336,7.029877,DE,Brown coal/Lignite,False
+n4584,s5102,220,Voerde,51.56,6.714,DE,Brown coal/Lignite,False
+n4585,s5102,380,Voerde,51.54,6.714,DE,Brown coal/Lignite,False
+n4586,s5105,380,BASF,49.482401,8.405914,DE,Fossil gas,False
+n4587,s5106,220,Biblis,49.703,8.536,DE,Substation,True
+n4588,s5106,380,Biblis,49.683,8.536,DE,Substation,True
+n4589,s5109,220,Veltheim,52.173089,8.925018,DE,Brown coal/Lignite,False
+n4590,s5110,220,Landesbergen,52.54,9.168,DE,Fossil gas,False
+n4591,s5110,380,Landesbergen,52.52,9.168,DE,Fossil gas,False
+n4592,s5111,380,Grohnde,51.940032,9.420776,DE,Substation,True
+n4593,s5112,220,Erzhausen,51.814558,9.930267,DE,Hydro pure pump storage,False
+n4594,s5113,220,Mehrum,52.24462,10.180206,DE,Substation,True
+n4595,s5114,220,Hallendorf,52.117469,10.443878,DE,Brown coal/Lignite,False
+n4596,s5115,380,Buschhaus,52.113252,10.965729,DE,Brown coal/Lignite,False
+n4597,s5125,380,Aschaffenburg,49.909671,9.360352,DE,Substation,True
+n4598,s5140,220,HÃ¼tte,49.351967,6.676941,DE,Substation,True
+n4599,s5141,220,Saarwellingen,49.431519,6.624756,DE,Substation,True
+n4600,s5142,220,Bauler,49.990967,6.256714,DE,Substation,True
+n4601,s5143,220,Niederstedem,49.975,6.527,DE,Substation,True
+n4602,s5143,380,Niederstedem,49.955,6.527,DE,Substation,True
+n4603,s5144,220,Trier,49.688955,6.648102,DE,Substation,True
+n4604,s5145,380,Dahlem,50.403266,6.568451,DE,Substation,True
+n4605,s5146,220,Otterbach,49.417,7.701,DE,Substation,True
+n4606,s5146,380,Otterbach,49.397,7.701,DE,Substation,True
+n4607,s5147,380,Bexbach,49.421694,7.257843,DE,Substation,True
+n4608,s5148,220,Uchtelfangen,49.398,6.942,DE,Substation,True
+n4609,s5148,380,Uchtelfangen,49.378,6.942,DE,Substation,True
+n4610,s5149,220,Homburg,49.326912,7.36084,DE,Substation,True
+n4611,s5150,220,Wengerohr,50.095036,7.003784,DE,Substation,True
+n4612,s5151,220,WeiÃŸenthurm,50.386,7.381,DE,Substation,True
+n4613,s5151,380,WeiÃŸenthurm,50.366,7.381,DE,Substation,True
+n4614,s5152,220,Koblenz,50.333,7.585,DE,Substation,True
+n4615,s5152,380,Koblenz,50.313,7.585,DE,Substation,True
+n4616,s5153,380,Philippsburg,49.20414,8.411407,DE,Substation,True
+n4617,s5154,220,Niederhausen,49.796336,7.724762,DE,Substation,True
+n4618,s5155,220,Marxheim,50.05,8.352,DE,Substation,True
+n4619,s5155,380,Marxheim,50.03,8.352,DE,Substation,True
+n4620,s5156,380,Bischofsheim,49.902596,8.393555,DE,Substation,True
+n4621,s5157,380,Limburg,50.397138,8.11203,DE,Substation,True
+n4622,s5158,220,St. Peter,51.105,6.791,DE,Substation,True
+n4623,s5158,380,St. Peter,51.085,6.791,DE,Substation,True
+n4624,s5159,380,NiederauÃŸem,50.996472,6.546478,DE,Substation,True
+n4625,s5160,380,Zukunft,50.831963,6.278687,DE,Substation,True
+n4626,s5161,380,Siersdorf,50.915156,6.236115,DE,Substation,True
+n4627,s5162,380,Oberzier,50.830228,6.465454,DE,Substation,True
+n4628,s5163,380,Paffendorf,50.9342,6.513519,DE,Substation,True
+n4629,s5164,220,Rommerskirchen,51.006,6.68,DE,Substation,True
+n4630,s5164,380,Rommerskirchen,50.986,6.68,DE,Substation,True
+n4631,s5165,220,DÃ¼lken,51.232,6.367,DE,Substation,True
+n4632,s5165,380,DÃ¼lken,51.212,6.367,DE,Substation,True
+n4633,s5166,220,Norf,51.163844,6.700287,DE,Substation,True
+n4634,s5167,380,Neurath,51.061249,6.551971,DE,Substation,True
+n4635,s5168,380,Gohrpunkt,51.113869,6.628876,DE,Substation,True
+n4636,s5169,220,Osterath,51.256,6.586,DE,Substation,True
+n4637,s5169,380,Osterath,51.236,6.586,DE,Substation,True
+n4638,s5170,220,MÃ¼ndelheim,51.356,6.601,DE,Substation,True
+n4639,s5170,380,MÃ¼ndelheim,51.336,6.601,DE,Substation,True
+n4640,s5171,220,Pfalzdorf,51.618869,6.2677,DE,Substation,True
+n4641,s5172,380,Utfort,51.454863,6.591797,DE,Substation,True
+n4642,s5173,220,Niederrhein,51.64,6.617,DE,Substation,True
+n4643,s5173,380,Niederrhein,51.62,6.617,DE,Substation,True
+n4644,s5174,220,Gersteinwerk,51.724,7.831,DE,Substation,True
+n4645,s5174,380,Gersteinwerk,51.704,7.831,DE,Substation,True
+n4646,s5175,220,Dortmund,51.524,7.314,DE,Substation,True
+n4647,s5175,380,Dortmund,51.504,7.314,DE,Substation,True
+n4648,s5176,220,Linde,51.217,7.131,DE,Substation,True
+n4649,s5176,380,Linde,51.197,7.131,DE,Substation,True
+n4650,s5177,220,Opladen,51.061,6.993,DE,Substation,True
+n4651,s5177,380,Opladen,51.041,6.993,DE,Substation,True
+n4652,s5178,220,Sechtem,50.784,6.923,DE,Substation,True
+n4653,s5178,380,Sechtem,50.764,6.923,DE,Substation,True
+n4654,s5179,220,Eller,51.175038,6.870575,DE,Substation,True
+n4655,s5180,380,Ohligs,51.125075,6.958466,DE,Substation,True
+n4656,s5181,220,Siegburg,50.798,7.155,DE,Substation,True
+n4657,s5181,380,Siegburg,50.778,7.155,DE,Substation,True
+n4658,s5182,380,LieÃŸem,50.632042,7.098541,DE,Substation,True
+n4659,s5183,220,Gremberghoven,50.888308,7.028503,DE,Substation,True
+n4660,s5184,380,Bollenacker,50.897836,7.215271,DE,Substation,True
+n4661,s5185,220,Scholven,51.495065,7.024384,DE,Substation,True
+n4662,s5186,220,BÃ¼scherhof,51.469,6.851,DE,Substation,True
+n4663,s5186,380,BÃ¼scherhof,51.449,6.851,DE,Substation,True
+n4664,s5187,380,Selbeck,51.329754,6.81839,DE,Substation,True
+n4665,s5188,380,Eiberg,51.409486,6.937866,DE,Substation,True
+n4666,s5189,380,unknown,51.537794,6.834869,DE,Substation,True
+n4667,s5190,380,Polsum,51.58475,6.981812,DE,Substation,True
+n4668,s5191,220,Witten,51.423,7.136,DE,Substation,True
+n4669,s5191,380,Witten,51.403,7.136,DE,Substation,True
+n4670,s5192,220,Hattingen,51.353,7.155,DE,Substation,True
+n4671,s5192,380,Hattingen,51.333,7.155,DE,Substation,True
+n4672,s5193,220,Witten,51.416,7.28,DE,Substation,True
+n4673,s5193,380,Witten,51.396,7.28,DE,Substation,True
+n4674,s5194,380,Kusenhorst,51.659779,7.065582,DE,Substation,True
+n4675,s5195,380,Bochum,51.470263,7.182312,DE,Substation,True
+n4676,s5196,220,PÃ¶ppinghausen,51.55,7.229,DE,Substation,True
+n4677,s5196,380,PÃ¶ppinghausen,51.53,7.229,DE,Substation,True
+n4678,s5197,220,Altenkleusheim,51.069,8.001,DE,Substation,True
+n4679,s5197,380,Altenkleusheim,51.049,8.001,DE,Substation,True
+n4680,s5198,220,Dauersberg,50.823,7.921,DE,Substation,True
+n4681,s5198,380,Dauersberg,50.803,7.921,DE,Substation,True
+n4682,s5199,380,Bomig,50.977453,7.518768,DE,Substation,True
+n4683,s5200,220,Eiserfeld,50.894,8.058,DE,Substation,True
+n4684,s5200,380,Eiserfeld,50.874,8.058,DE,Substation,True
+n4685,s5201,220,Setzer Wiese,50.929872,8.246613,DE,Substation,True
+n4686,s5202,220,Koepchenwerk,51.361,7.472,DE,Substation,True
+n4687,s5202,380,Koepchenwerk,51.341,7.472,DE,Substation,True
+n4688,s5203,220,Bixterheide,51.348628,7.695923,DE,Substation,True
+n4689,s5204,220,Garenfeld,51.437,7.397,DE,Substation,True
+n4690,s5204,380,Garenfeld,51.417,7.397,DE,Substation,True
+n4691,s5205,220,Harpen,51.4925,7.503662,DE,Substation,True
+n4692,s5207,220,Lippborg,51.664,8.069,DE,Substation,True
+n4693,s5207,380,Lippborg,51.644,8.069,DE,Substation,True
+n4694,s5208,380,Gronau,52.212656,7.128754,DE,Substation,True
+n4695,s5209,380,Emsland,52.464377,7.267456,DE,Substation,True
+n4696,s5210,220,Wehrendorf,52.354,8.285,DE,Substation,True
+n4697,s5210,380,Wehrendorf,52.334,8.285,DE,Substation,True
+n4698,s5211,220,Roxel,51.985,7.677,DE,Substation,True
+n4699,s5211,380,Roxel,51.965,7.677,DE,Substation,True
+n4700,s5212,220,IbbenbÃ¼ren,52.258,7.707,DE,Substation,True
+n4701,s5212,380,IbbenbÃ¼ren,52.238,7.707,DE,Substation,True
+n4702,s5213,220,Hesseln,52.052,8.207,DE,Substation,True
+n4703,s5213,380,Hesseln,52.032,8.207,DE,Substation,True
+n4704,s5214,220,Westerkappeln,52.292,7.931,DE,Substation,True
+n4705,s5214,380,Westerkappeln,52.272,7.931,DE,Substation,True
+n4706,s5215,220,LÃ¼stringen,52.264,8.145,DE,Substation,True
+n4707,s5215,380,LÃ¼stringen,52.244,8.145,DE,Substation,True
+n4708,s5216,380,Neurott,49.300054,8.605042,DE,Substation,True
+n4709,s5217,220,AltluÃŸheim,49.283036,8.480072,DE,Substation,True
+n4710,s5218,380,Bruchsal,49.114332,8.54187,DE,Substation,True
+n4711,s5219,380,Wiesloch,49.208626,8.589935,DE,Substation,True
+n4712,s5220,380,HÃ¼ffenhardt,49.275869,8.964844,DE,Substation,True
+n4713,s5221,380,Heilbronn,49.156562,9.298553,DE,Substation,True
+n4714,s5222,380,Kupferzell,49.263324,9.547119,DE,Substation,True
+n4715,s5223,380,Dipperz,50.543108,9.672089,DE,Substation,True
+n4716,s5224,220,DÃ¶rnigheim,50.143466,8.809662,DE,Substation,True
+n4717,s5225,220,Kelsterbach,49.999,8.535,DE,Substation,True
+n4718,s5225,380,Kelsterbach,49.979,8.535,DE,Substation,True
+n4719,s5226,220,Rheinau,49.381479,8.544617,DE,Substation,True
+n4720,s5227,220,BASF,49.442,8.501,DE,Substation,True
+n4721,s5227,380,BASF,49.422,8.501,DE,Substation,True
+n4722,s5228,380,BÃ¼rstadt,49.603591,8.473206,DE,Substation,True
+n4723,s5229,380,Weinheim,49.530557,8.680573,DE,Substation,True
+n4724,s5230,220,Urberach,49.942,8.8,DE,Substation,True
+n4725,s5230,380,Urberach,49.922,8.8,DE,Substation,True
+n4726,s5231,380,Kriftel,50.115295,8.530884,DE,Substation,True
+n4727,s5232,380,Dillenburg,50.789443,8.453979,DE,Substation,True
+n4728,s5233,380,Arpe,51.158677,8.388062,DE,Substation,True
+n4729,s5234,380,Karben,50.242814,8.760223,DE,Substation,True
+n4730,s5235,380,GieÃŸen/Nord,50.657297,8.705292,DE,Substation,True
+n4731,s5236,380,Nehden,51.385495,8.692932,DE,Substation,True
+n4732,s5237,220,Beerfelden,49.516293,8.945618,DE,Substation,True
+n4733,s5238,220,GroÃŸkrotzenburg,50.105,8.973,DE,Substation,True
+n4734,s5238,380,GroÃŸkrotzenburg,50.085,8.973,DE,Substation,True
+n4735,s5239,220,Trennfeld,49.720928,9.500427,DE,Substation,True
+n4736,s5240,380,HÃ¶pfingen,49.603591,9.363098,DE,Substation,True
+n4737,s5241,380,Borken,51.029304,9.258728,DE,Substation,True
+n4738,s5242,380,Waldeck,51.084547,9.025269,DE,Substation,True
+n4739,s5243,380,Twistetal,51.344339,8.896179,DE,Substation,True
+n4740,s5244,380,Mecklar,50.85971,9.621277,DE,Substation,True
+n4741,s5245,380,Bergshausen,51.194836,9.529266,DE,Substation,True
+n4742,s5246,220,Sandershausen,51.306579,9.552612,DE,Substation,True
+n4743,s5247,380,OvenstÃ¤dt,52.390687,8.893433,DE,Substation,True
+n4744,s5248,220,Bechterdissen,52.024,8.759,DE,Substation,True
+n4745,s5248,380,Bechterdissen,52.004,8.759,DE,Substation,True
+n4746,s5249,220,GÃ¼tersloh,51.908,8.429,DE,Substation,True
+n4747,s5249,380,GÃ¼tersloh,51.888,8.429,DE,Substation,True
+n4748,s5250,220,Paderborn-SÃ¼d,51.668297,8.815155,DE,Substation,True
+n4749,s5251,220,Bielefeld Ost,52.036,8.609,DE,Substation,True
+n4750,s5251,380,Bielefeld Ost,52.016,8.609,DE,Substation,True
+n4751,s5252,380,Eickum,52.104818,8.665466,DE,Substation,True
+n4752,s5253,220,Lage,51.994,8.952,DE,Substation,True
+n4753,s5253,380,Lage,51.974,8.952,DE,Substation,True
+n4754,s5254,380,Elsen,51.707459,8.691559,DE,Substation,True
+n4755,s5255,220,MeiÃŸen,52.245461,9.122772,DE,Substation,True
+n4756,s5256,220,Hannover West,52.277401,9.652863,DE,Substation,True
+n4757,s5257,380,Oberhaid,49.957405,10.784454,DE,Substation,True
+n4758,s5258,380,Bergrheinfeld,49.987435,9.924774,DE,Substation,True
+n4759,s5259,380,Grafenrheinfeld,49.950336,10.081329,DE,Substation,True
+n4760,s5260,380,Raitersaich,49.407399,10.80368,DE,Substation,True
+n4761,s5261,220,Hardegsen,51.627395,9.748993,DE,Substation,True
+n4762,s5262,220,GÃ¶ttingen,51.466841,9.832764,DE,Substation,True
+n4763,s5263,220,Godenau,51.980651,9.775085,DE,Substation,True
+n4764,s5264,380,Eisenach,50.942854,10.393066,DE,Substation,True
+n4765,s5265,380,Kriegenbrunn,49.628504,11.023407,DE,Substation,True
+n4766,s5266,380,WÃ¼rgau,49.992733,11.026154,DE,Substation,True
+n4767,s5267,220,Wolkramshausen,51.47454,11.017914,DE,Substation,True
+n4768,s5268,220,Lahe,52.379791,9.889069,DE,Substation,True
+n4769,s5269,220,Lehrte,52.337856,10.022278,DE,Substation,True
+n4770,s5270,380,Algermissen,52.198349,9.946747,DE,Substation,True
+n4771,s5271,220,Klein Ilsede,52.296,10.301,DE,Substation,True
+n4772,s5271,380,Klein Ilsede,52.276,10.301,DE,Substation,True
+n4773,s5272,380,Hattorf,52.338695,10.831146,DE,Substation,True
+n4774,s5273,220,Gleidingen,52.198349,10.511169,DE,Substation,True
+n4775,s5274,220,Wahle,52.268,10.453,DE,Substation,True
+n4776,s5274,380,Wahle,52.248,10.453,DE,Substation,True
+n4777,s5276,380,Eltmann,49.939731,10.259857,DE,Substation,True
+n4778,s5277,380,IbbenbÃ¼ren,52.315195,7.701416,DE,Brown coal/Lignite,False
+n4779,s5278,380,Goldenberg,50.855376,6.730499,DE,Substation,True
+n4780,s5279,380,WÃ¼rgassen,51.580483,9.394684,DE,Substation,True
+n4781,s5280,220,Frankfurt-SÃ¼dwest,50.158,8.619,DE,Substation,True
+n4782,s5280,380,Frankfurt-SÃ¼dwest,50.138,8.619,DE,Substation,True
+n4783,s5281,380,Goldisthal,50.406767,11.046753,DE,Hydro pure pump storage,False
+n4784,s5282,380,AÃŸlar,50.66252,8.484192,DE,Substation,True
+n4785,s5283,380,Schweinfurt,50.131143,10.030518,DE,Substation,True
+n4786,s5284,380,Verlautenheide,50.816348,6.04248,DE,Substation,True
+n4787,s5285,220,Quint,49.834,6.699,DE,Substation,True
+n4788,s5285,380,Quint,49.814,6.699,DE,Substation,True
+n4789,s5286,220,Braunschweig Nord,52.306799,10.680084,DE,Substation,True
+n4790,s5287,380,Enniger,51.800123,8.245239,DE,Substation,True
+n4791,s5288,380,VÃ¶rden,51.76529,9.249115,DE,Substation,True
+n4844,s5348,220,Ensdorf,49.303,6.699,DE,Substation,True
+n4845,s5348,380,Ensdorf,49.283,6.699,DE,Substation,True
+n4846,s5356,380,GKN 2,49.105343,9.330139,DE,Nuclear,False
+n4847,s5357,220,Waldlaubershaim,49.953,7.857,DE,Substation,True
+n4848,s5357,380,Waldlaubershaim,49.933,7.857,DE,Substation,True
+n4852,s5363,380,GroÃŸgartach,49.155664,9.062347,DE,Substation,True
+n4854,s5365,380,Bergrheinfeld/West,49.927356,9.908295,DE,Substation,True
+n4855,s5368,380,Dettingen,49.979488,8.97995,DE,Substation,True
+n5534,s6078,380,GÃ¶rries,53.563152,11.46286,DE,Substation,True
+n5535,s6079,220,Pasewalk,53.456985,13.981476,DE,Substation,True
+n5536,s6080,380,Perleberg,53.065976,11.946259,DE,Substation,True
+n5537,s6081,220,Hennigsdorf,52.652,13.049,DE,Substation,True
+n5538,s6081,380,Hennigsdorf,52.632,13.049,DE,Substation,True
+n5539,s6082,380,Malchow,52.593038,13.410187,DE,Substation,True
+n5540,s6083,220,Vierraden,53.099,14.252,DE,Substation,True
+n5541,s6083,380,Vierraden,53.079,14.252,DE,Substation,True
+n5542,s6084,380,Rostock,54.14366,12.128323,DE,Substation,True
+n5543,s6085,132,Bentwisch,54.077,12.273,DE,Substation,True
+n5544,s6085,220,Bentwisch,54.062,12.28166025,DE,Substation,True
+n5545,s6085,380,Bentwisch,54.062,12.26433975,DE,Substation,True
+n5546,s6086,220,GÃ¼strow,53.769,12.206,DE,Substation,True
+n5547,s6086,380,GÃ¼strow,53.749,12.206,DE,Substation,True
+n5549,s6088,220,LÃ¼dershagen,54.258807,13.066864,DE,Substation,True
+n5550,s6089,380,SiedenbrÃ¼nzow,53.837943,13.141022,DE,Substation,True
+n5551,s6090,220,Lubmin,54.123,13.601,DE,Substation,True
+n5552,s6090,380,Lubmin,54.103,13.601,DE,Substation,True
+n5553,s6092,220,Windpark Bertikow,53.196161,13.768616,DE,Substation,True
+n5554,s6093,380,Windpark Putlitz,53.334153,12.253876,DE,Substation,True
+n5555,s6096,380,Wessin,53.550099,11.797943,DE,Substation,True
+n5556,s6097,380,Stendal West,52.733797,11.759491,DE,Substation,True
+n5557,s6098,132,Baltic 1,54.580817,12.54364,DE,Wind farm,False
+n5579,s6118,132,Baltic 2,54.715895,12.870483,DE,Wind farm,False
+n5591,s6138,220,Windpark Iven,53.792539,13.30307,DE,Substation,True
+n5592,s6141,380,Windpark Altentreptow/Nord,53.621838,13.351135,DE,Substation,True
+n5596,s6149,380,Altentreptow/SÃ¼d,53.574569,13.216553,DE,Substation,True
+n5597,s6150,380,Putlitz/SÃ¼d,53.273426,12.396698,DE,Substation,True
+n5598,s6151,380,Parchim/SÃ¼d,53.568861,12.274475,DE,Substation,True
+n5599,s6152,380,Gransee,52.844253,13.208313,DE,Substation,True
+n5600,s6154,220,Wikinger,54.644439,14.022675,DE,Wind farm,False
+n5601,s6155,220,Arkona-Becken SÃ¼dost,54.569673,14.16275,DE,Wind farm,False
+n5643,s6190,220,Wilhelmshaven,53.520717,8.125763,DE,Substation,True
+n5644,s6191,220,Huntorf,53.108865,8.32489,DE,Fossil gas,False
+n5645,s6192,220,Farge,53.103094,8.556976,DE,Brown coal/Lignite,False
+n5646,s6193,220,Brokdorf,53.839,9.382,DE,Nuclear,False
+n5647,s6193,380,Brokdorf,53.819,9.382,DE,Nuclear,False
+n5648,s6197,132,Emden/BorÃŸum,53.43081,7.212524,DE,Substation,True
+n5649,s6198,380,Niederlangen,52.793628,7.227631,DE,Substation,True
+n5650,s6199,380,Diele,53.057723,7.375946,DE,Substation,True
+n5651,s6200,220,Emden,53.384,7.256,DE,Substation,True
+n5652,s6200,,Emden,53.364,7.256,DE,Substation,True
+n5653,s6201,220,Maade,53.565,8.002,DE,Substation,True
+n5654,s6201,380,Maade,53.545,8.002,DE,Substation,True
+n5655,s6202,220,Voslapp,53.615321,8.088684,DE,Substation,True
+n5656,s6203,220,Cloppenburg Ost,52.918839,8.070831,DE,Substation,True
+n5657,s6204,220,Conneforde,53.311,8.122,DE,Substation,True
+n5658,s6204,380,Conneforde,53.291,8.122,DE,Substation,True
+n5659,s6205,380,Ganderkesee,52.94781,8.466339,DE,Substation,True
+n5660,s6206,380,St. HÃ¼lfe,52.591369,8.368835,DE,Substation,True
+n5661,s6207,380,Unterweser,53.342353,8.392181,DE,Substation,True
+n5662,s6208,220,Blockland,52.990817,8.878326,DE,Substation,True
+n5663,s6209,220,Wechold,52.820193,8.982697,DE,Substation,True
+n5664,s6210,220,BrunsbÃ¼ttel,53.917,9.242,DE,Substation,True
+n5665,s6210,380,BrunsbÃ¼ttel,53.897,9.242,DE,Substation,True
+n5666,s6211,220,Sottrum,53.054,9.234,DE,Substation,True
+n5667,s6211,380,Sottrum,53.034,9.234,DE,Substation,True
+n5668,s6212,380,Wilster,53.907574,9.40567,DE,Substation,True
+n5669,s6213,220,Abbenfleth,53.697,9.448,DE,Substation,True
+n5670,s6213,380,Abbenfleth,53.677,9.448,DE,Substation,True
+n5671,s6214,380,Dollern,53.415262,9.516907,DE,Substation,True
+n5672,s6215,220,Itzehoe,53.961742,9.569092,DE,Substation,True
+n5673,s6216,380,Stadorf,53.006521,10.395813,DE,Substation,True
+n5674,s6217,220,Hamburg-Nord,53.822,9.948,DE,Substation,True
+n5675,s6217,380,Hamburg-Nord,53.802,9.948,DE,Substation,True
+n5676,s6218,220,Kummerfeld,53.678002,9.677582,DE,Substation,True
+n5677,s6219,380,Hamburg-SÃ¼d,53.443899,9.883575,DE,Substation,True
+n5678,s6220,220,Audorf,54.315,9.76,DE,Substation,True
+n5679,s6220,380,Audorf,54.295,9.76,DE,Substation,True
+n5680,s6221,220,unknown,53.732,9.971,DE,Substation,True
+n5681,s6221,380,unknown,53.712,9.971,DE,Substation,True
+n5682,s6222,380,Hamburg-Ost,53.568045,10.254364,DE,Substation,True
+n5683,s6223,220,Kiel/West,54.334829,10.118415,DE,Substation,True
+n5684,s6224,220,Kiel-SÃ¼d,54.249982,10.162354,DE,Substation,True
+n5685,s6225,380,KrÃ¼mmel,53.435719,10.458984,DE,Substation,True
+n5686,s6226,380,LÃ¼neburg,53.264392,10.441132,DE,Substation,True
+n5687,s6227,220,LÃ¼beck,53.833891,10.548248,DE,Substation,True
+n5688,s6228,380,Herrenwyk,53.947196,10.881958,DE,Substation,True
+n5689,s6229,220,Siems,53.882,10.757,DE,Substation,True
+n5690,s6229,380,Siems,53.862,10.757,DE,Substation,True
+n5692,s6231,380,Rhede,52.902276,7.193298,DE,Substation,True
+n5693,s6232,380,Meppen,52.69969,7.24411,DE,Substation,True
+n5694,s6233,380,Alfstedt,53.467613,9.001923,DE,Substation,True
+n5695,s6234,132,Flensburg,54.752,9.407,DE,Substation,True
+n5696,s6234,220,Flensburg,54.732,9.407,DE,Substation,True
+n5697,s6235,380,Moorburg,53.496216,9.998932,DE,Hard coal,False
+n7151,s7830,380,,48.80955365,9.357741096,DE,joint,False
+n5710,s6254,220,Stade,53.568861,9.349365,DE,Substation,True
+n5711,s6255,220,GÃ¶tzdorf,53.618579,9.445496,DE,Substation,True
+n5713,s6257,132,Hagermarsch,53.664985,7.518768,DE,Substation,True
+n5714,s6259,220,Kiel,54.383756,10.324402,DE,Brown coal/Lignite,False
+n5718,s6268,,HelWin alpha,54.250785,8.057098,DE,Converter Station,False
+n5719,s6269,,HelWin beta,54.310916,8.125763,DE,Converter Station,False
+n5720,s6271,,DolWin alpha,53.880059,6.844482,DE,Converter Station,False
+n5721,s6272,,DolWin beta,53.962549,7.110901,DE,Converter Station,False
+n5722,s6273,132,Alpha Ventus,53.939921,6.966705,DE,Wind farm,False
+n5723,s6275,,BorWin beta,54.381357,6.859589,DE,Converter Station,False
+n5724,s6276,,BorWin alpha,54.32213,6.851349,DE,Converter Station,False
+n5725,s6277,,SylWin alpha,54.922407,7.787933,DE,Converter Station,False
+n5726,s6278,132,Riffgat,53.691828,6.48056,DE,Wind farm,False
+n5728,s6282,,DolWin gamma,53.813626,6.844482,DE,Converter Station,False
+n5729,s6283,132,Inhausen,53.6471,8,DE,Substation,True
+n5730,s6284,132,NordergrÃ¼nde,53.835512,8.2164,DE,Wind farm,False
+n5731,s6285,,BorWin gamma,54.443693,7.095795,DE,Converter Station,False
+n5732,s6286,380,BÃ¼ttel,53.931837,9.327393,DE,Substation,True
+n5733,s6287,380,DÃ¶rpen/West,52.847571,7.161713,DE,Substation,True
+n5734,s6288,380,Jardelund,54.792768,9.253235,DE,Substation,True
+n5735,s6289,220,BÃ¼tzfleth,53.721092,9.324646,DE,Substation,True
+n5738,s6292,380,Ohlensehlen,52.591369,8.815155,DE,Substation,True
+n5739,s6293,380,Farge,53.025522,8.592682,DE,Substation,True
+n5740,s6294,380,SÃ¼derdonn,54.120602,9.29306,DE,Substation,True
+n6839,s7544,220,,51.272,6.466,DE,joint,False
+n6840,s7544,380,,51.252,6.466,DE,joint,False
+n6841,s7545,220,,51.648,7.696,DE,joint,False
+n6842,s7545,380,,51.628,7.696,DE,joint,False
+n6843,s7546,220,,51.5,6.925,DE,joint,False
+n6844,s7546,380,,51.48,6.925,DE,joint,False
+n6845,s7547,380,,49.135003,8.687439,DE,joint,False
+n6846,s7548,220,,49.315,8.648,DE,joint,False
+n6847,s7548,380,,49.295,8.648,DE,joint,False
+n6848,s7549,220,,52.364,9.279,DE,joint,False
+n6849,s7549,380,,52.344,9.279,DE,joint,False
+n6850,s7550,380,,51.817105,13.083344,DE,joint,False
+n6851,s7551,220,,49.546,8.546,DE,joint,False
+n6852,s7551,380,,49.526,8.546,DE,joint,False
+n6853,s7552,380,,47.61638306,9.663429844,DE,joint,False
+n6854,s7553,220,,49.771509,6.560211,DE,joint,False
+n7261,s7931,380,,50.05625693,9.069206266,DE,joint,False
+n7264,s7938,220,,53.412,7.156,DE,joint,False
+n7265,s7938,,,53.392,7.156,DE,joint,False
+n7266,s7939,220,,49.467,8.598,DE,joint,False
+n7267,s7939,380,,49.447,8.598,DE,joint,False
+n7268,s7940,220,,49.444,7.605,DE,joint,False
+n7269,s7940,380,,49.424,7.605,DE,joint,False
+n7270,s7942,220,,49.103,9.123,DE,joint,False
+n7271,s7942,380,,49.083,9.123,DE,joint,False
+n7272,s7943,380,,52.02686869,11.86080573,DE,joint,False
+n7273,s7944,380,,47.62718878,7.61211063,DE,joint,False
+n7274,s7946,380,,49.98119623,8.852365902,DE,joint,False
+n7275,s7948,380,,52.70540096,13.51945041,DE,joint,False
+n7276,s7949,380,,47.63669112,9.802352407,DE,joint,False
+n7277,s7950,380,,48.78620463,9.348505081,DE,joint,False
+n7278,s7951,380,,48.63849157,9.436338729,DE,joint,False
+n7279,s7952,380,,47.90642777,8.413851382,DE,joint,False
+n7280,s7953,380,,47.964181,8.503418,DE,joint,False
+n7281,s7954,380,,48.75610459,9.442251622,DE,joint,False
+n7282,s7955,380,,50.92743082,6.807611836,DE,joint,False
+n7486,s8187,220,,53.673121,9.275208,DE,joint,False
+n7487,s8188,380,,50.894372,11.597443,DE,joint,False
+n7489,s8190,380,,52.614723,12.233276,DE,joint,False
+n7610,s8369,220,,52.704683,12.978973,DE,joint,False
+n7637,s8407,380,,52.114096,14.440155,DE,joint,False
+n7641,s8411,380,,50.959292,13.128662,DE,joint,False
+n7649,s8419,220,,47.800242,8.878326,DE,joint,False
+n7652,s8422,220,,49.408,7.177,DE,joint,False
+n7653,s8422,380,,49.388,7.177,DE,joint,False
+n7672,s8440,380,,51.010299,10.345001,DE,joint,False
+n7681,s8449,380,,52.792797,7.130127,DE,joint,False
+n7682,s8450,380,,51.567681,12.171478,DE,joint,False
+n7688,s8456,380,,53.559073,12.553253,DE,joint,False
+n7704,s8472,380,,50.264765,7.505035,DE,joint,False
+n7711,s8479,380,,49.349283,6.844482,DE,joint,False
+n7712,s8480,380,,50.306007,8.12439,DE,joint,False
+n7720,s8488,220,,53.582,12.133,DE,joint,False
+n7721,s8488,380,,53.562,12.133,DE,joint,False
+n7723,s8490,220,,51.401,6.503,DE,joint,False
+n7724,s8490,380,,51.381,6.503,DE,joint,False
+n7726,s8492,220,,53.188756,13.94165,DE,joint,False
+n7745,s8508,380,,49.884017,10.020905,DE,joint,False
+n7756,s8519,380,,49.60804,10.007172,DE,joint,False
+n7760,s8523,380,,53.625095,11.725159,DE,joint,False
+n7769,s8532,220,,47.538,11.216,DE,joint,False
+n7783,s8545,380,,48.281365,10.06485,DE,joint,False
+n7786,s8548,380,,52.503684,7.337494,DE,joint,False
+n7788,s8550,380,,51.825593,13.165741,DE,joint,False
+n7790,s8552,220,,49.845,6.632,DE,joint,False
+n7791,s8552,380,,49.825,6.632,DE,joint,False
+n7795,s8556,220,,50.993879,8.032379,DE,joint,False
+n7798,s8559,380,,49.562634,8.456726,DE,joint,False
+n7800,s8561,380,,51.76869,7.993927,DE,joint,False
+n7805,s8566,380,,50.66339,12.906189,DE,joint,False
+n7823,s8584,220,,49.546598,6.619263,DE,joint,False
+n7850,s8609,380,,48.441045,11.02066,DE,joint,False
+n7852,s8611,220,,51.899376,8.544617,DE,joint,False
+n7857,s8615,380,,48.370848,11.737518,DE,joint,False
+n7863,s8621,380,,51.97473,8.644867,DE,joint,False
+n7870,s8628,380,,52.261434,14.317932,DE,joint,False
+n7871,s8629,380,,53.874392,9.394684,DE,joint,False
+n7872,s8630,220,,51.813,7.942,DE,joint,False
+n7873,s8630,380,,51.793,7.942,DE,joint,False
+n7878,s8635,380,,53.61695,9.615784,DE,joint,False
+n7879,s8636,220,,53.084952,9.025269,DE,joint,False
+n7884,s8641,220,,52.170563,9.070587,DE,joint,False
+n7888,s8644,220,,49.433,8.308,DE,joint,False
+n7889,s8644,380,,49.413,8.308,DE,joint,False
+n7890,s8645,380,,49.832668,8.482819,DE,joint,False
+n7892,s8647,220,,51.063839,12.626038,DE,joint,False
+n7897,s8652,380,,51.388923,8.856354,DE,joint,False
+n7901,s8656,220,,53.748711,13.276978,DE,joint,False
+n7907,s8662,380,,50.867511,12.062988,DE,joint,False
+n7910,s8665,220,,49.782151,9.50592,DE,joint,False
+n7913,s8668,380,,50.195364,8.756104,DE,joint,False
+n7916,s8671,380,,51.76529,12.988586,DE,joint,False
+n7933,s8685,380,,50.952371,13.808441,DE,joint,False
+n7934,s8686,380,,52.838447,13.314056,DE,joint,False
+n7938,s8690,220,,51.76869,9.770966,DE,joint,False
+n7939,s8691,380,,53.648708,13.274231,DE,joint,False
+n7941,s8693,380,,52.459357,7.969208,DE,joint,False
+n7944,s8696,380,,48.459263,10.453491,DE,joint,False
+n7952,s8704,220,,53.234811,8.32901,DE,joint,False
+n7959,s8710,380,,48.451066,9.185944,DE,joint,False
+n7967,s8718,380,,53.012305,12.075348,DE,joint,False
+n7975,s8726,220,,48.867425,8.477325,DE,joint,False
+n7976,s8727,380,,51.037076,7.546234,DE,joint,False
+n7983,s8733,380,,50.981776,6.227875,DE,joint,False
+n7984,s8734,220,,48.391826,12.788086,DE,joint,False
+n7988,s8738,380,,52.37308413,12.9357145,DE,joint,False
+n7989,s8739,220,,53.116284,13.930664,DE,joint,False
+n7996,s8745,220,,50.814612,8.059845,DE,joint,False
+n7998,s8747,380,,51.145756,9.125519,DE,joint,False
+n8002,s8751,380,,52.533767,7.389679,DE,joint,False
+n8013,s8762,380,,49.22836,8.894806,DE,joint,False
+n8015,s8764,380,,52.46605,8.374329,DE,joint,False
+n8016,s8765,220,,50.6303,11.601562,DE,joint,False
+n8028,s8777,380,,51.697246,7.693176,DE,joint,False
+n8043,s8791,220,,54.258005,10.053864,DE,joint,False
+n8045,s8793,220,,48.027,10.761,DE,joint,False
+n8046,s8793,380,,48.007,10.761,DE,joint,False
+n8047,s8794,380,,50.771208,6.811523,DE,joint,False
+n8051,s8798,380,,53.182173,8.419647,DE,joint,False
+n8052,s8799,380,,53.067627,8.438873,DE,joint,False
+n8055,s8802,220,,51.955268,8.4375,DE,joint,False
+n8060,s8807,220,,53.196984,8.595428,DE,joint,False
+n8061,s8808,380,,49.561743,8.305664,DE,joint,False
+n8066,s8813,380,,53.262749,12.31842,DE,joint,False
